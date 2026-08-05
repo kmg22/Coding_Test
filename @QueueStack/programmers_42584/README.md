@@ -1,4 +1,4 @@
-[#28107 회전초밥](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+[[lv.2] #42584 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 ---
 
 - stack
